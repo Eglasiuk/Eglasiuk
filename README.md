@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="200" />
+    <h1 align="center"> Hi! I'm EGlasiuk</h1>
+    <h3 align="center">I started my career as a Data Analyst, but quickly realized that my true passion lies in Big Data. I'm from Argentina, where you don't want to be relegated to a specific role, but rather are allowed to work in many different ways and get rewarded for it. This mentality has allowed me to learn and develop skills across several areas of business intelligence (BI), which has given me a broader perspective of the industry, as well as a particular knack for finding new ways to visualize data in form of dashboards and reports. </h3>
+    <h4 align="center"></h3>  Hard Skills: Python, SQL, Excel, Power Bi</h4>
+</div>
 <!--
 **Eglasiuk/Eglasiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

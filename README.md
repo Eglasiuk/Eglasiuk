@@ -36,4 +36,7 @@
 ### Notebooks in Google Colab:
 
 To explore the available notebooks (without having to install python packages on the computer) you can use Google Colab by clicking this button:
-(https://colab.research.google.com/drive/1uasVC9ytmRotP2eT01tu-g804ZAToYuB)
+
+<div align="left">
+        "<a href=\"https://colab.research.google.com/github/Eglasiuk/Eglasiuk/blob/main/Intro_a_Numpy.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>" 
+ </div>     

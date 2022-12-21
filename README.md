@@ -40,3 +40,10 @@ To explore the available notebooks (without having to install python packages on
 <div align="left">
         "<a href=\"https://colab.research.google.com/github/Eglasiuk/Eglasiuk/blob/main/Intro_a_Numpy.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>" 
  </div>     
+
+### Some days this happens...
+<div id="header" align="center">
+        <img src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="200" />
+</div>
+
+### But don't worry everything ends well ✨

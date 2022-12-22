@@ -3,7 +3,7 @@ Hi There!![](https://user-images.githubusercontent.com/18350557/176309783-078594
 <div id="header" align="center">
         <img src="https://media.giphy.com/media/G1ifnX4d5tYFACktp9/giphy.gif" width="200" />
     <h1 align="center"> Hi! I'm EGlasiuk</h1>
-    <h3 align="center">I started my career as a Data Analyst, but quickly realized that my true passion lies in Big Data. I'm from Argentina, where you don't want to be relegated to a specific role, but rather are allowed to work in many different ways and get rewarded for it. This mentality has allowed me to learn and develop skills across several areas of business intelligence (BI), which has given me a broader perspective of the industry, as well as a particular knack for finding new ways to visualize data in form of dashboards and reports, also finding new insights </h3>
+    <h3 align="center">I started my career studying economics, but quickly found out I had a true passion in Big Data. That mentality has allowed me to learn and develop skills across several areas of business intelligence (BI), which has given me a broader perspective of the industry as it relates to data visualization, plus a particular knack coming up with new ways to visualize data in form of dashboards and reports. This post includes some insights from my experience, as well as survey results that shows how others in the industry think about BI and data visualization. </h3>
     <h4 align="center"></h3>  Hard Skills: Python, SQL, Excel, Power Bi</h4>
 </div>
 

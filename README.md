@@ -12,7 +12,7 @@ Hi There!![](https://user-images.githubusercontent.com/18350557/176309783-078594
 ### ✨About Me ✨ :
 
 * 🌍  I'm based in Argentina
-* ✉️  You can contact me at [elina.glasiuk@gmail.com](mailto:elina.glasiuk@gmail.com)
+* ✉️  You can contact me at [eliana.glasiuk@gmail.com](mailto:eliana.glasiuk@gmail.com)
 * 🧠  I'm learning **python, machine learning, scrapping web**
 * 🤝  I'm open to collaborating on machine learning proyects
 - 💬 Ask me about dashbooards
